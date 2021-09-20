@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17844202898550723" />
+        <entry key="app/src/main/res/layout/activity_weather_main.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.29411764705882354" />
+        <entry key="app/src/main/res/layout/fragment_place.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_weather_place.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/item_weather_place.xml" value="0.37604166666666666" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14351851851851852" />
       </map>
     </option>

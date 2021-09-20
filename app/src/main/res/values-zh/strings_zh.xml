@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Random</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
+
     <!--  天气模块  -->
-    <string name="weather_input_address_tips">Input address</string>
+    <string name="weather_input_address_tips">请输入地址</string>
 
 </resources>
